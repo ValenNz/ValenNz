@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/ValenNz">ValenNz</a>'s Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 </p>
 
-<iframe src="https://giphy.com/embed/OThoEim56VvSnFD0q4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funimation-OThoEim56VvSnFD0q4">via GIPHY</a></p>
+<img src="https://giphy.com/embed/OThoEim56VvSnFD0q4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funimation-OThoEim56VvSnFD0q4">via GIPHY</a></p>|<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%2313A9F7&size=25&lines=Hello+There+!;Welcome+to+my+GitHub+Profile!;I'm+a+Student"/>
 |---|---|
 
 <ul>

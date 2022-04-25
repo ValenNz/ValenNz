@@ -7,10 +7,11 @@ Student
 I studied programming since junior high school. I started learning python and then java.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [coming soon](http://github.com/ValenNz)
-* ✉️  You can contact me at [nuevalenra05@gmail.com](mailto:nuevalenra05@gmail.com)
-* 🚀  I'm currently working on [coming soon](http://github.com/ValenNz)
 * 🧠  I'm learning Python, Java , HTML , JS.
+* 📜  See my certificate at [certificate](http://drive.google.com/drive/folders/1H7l7OtjnY6lDp2RdUaTE0mkWw9ImcBFg?usp=sharing)
+* 🖥️  See my portfolio at [coming soon](http://github.com/ValenNz)
+* 🚀  I'm currently working on [coming soon](http://github.com/ValenNz)
+* ✉️  You can contact me at [nuevalenra05@gmail.com](mailto:nuevalenra05@gmail.com)
 * 🤝  I'm open to collaborating on Discord : https://discord.gg/vnrtANuu
 * ⚡  How important it is for someone to have a dream for the future or at least know what to do after graduating from school
 

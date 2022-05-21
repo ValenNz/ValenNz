@@ -7,7 +7,7 @@ Student
 I studied programming since junior high school. I started learning python and then java.
 
 * 🌍  I'm based in Indonesia
-* 🧠  I'm learning Python, Java , HTML , JS.
+* 🧠  I'm learning Python, Java , HTML , JS, UI UX.
 * 📜  See my certificate at [certificate](http://drive.google.com/drive/folders/1H7l7OtjnY6lDp2RdUaTE0mkWw9ImcBFg?usp=sharing)
 * 🖥️  See my portfolio at [coming soon](http://github.com/ValenNz)
 * 🚀  I'm currently working on [coming soon](http://github.com/ValenNz)
@@ -22,6 +22,7 @@ src="https://img.shields.io/github/followers/ValenNz?logo=github&style=for-the-b
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 ### Socials

@@ -29,7 +29,7 @@ Your README will now be visible on the main page of your repository! -->
     <img src="https://komarev.com/ghpvc/?username=ValenNz&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<a href="https://app.daily.dev/ValenNz"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
+<a href="https://app.daily.dev/ValenNz"> <img align='right' src="https://api.daily.dev/devcards/d35e932d19e942b081847a6619ad4c33.png?r=hnn" width="350" alt="HyunSun's Dev Card" /></a>
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 

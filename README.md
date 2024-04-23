@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=ValenNz&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<a href="https://app.daily.dev/valennz"><img src="https://api.daily.dev/devcards/v2/WNWHlZGr2lifVUC8kOpMr.png?type=default&r=bn0" width="356" alt="Nuevalen Refitra Alswando's Dev Card"/></a>
+<a href="https://app.daily.dev/valennz"><img align='right' src="https://api.daily.dev/devcards/v2/WNWHlZGr2lifVUC8kOpMr.png?type=default&r=bn0" width="350" alt="Nuevalen Refitra Alswando's Dev Card"/></a>
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 

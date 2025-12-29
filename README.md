@@ -17,7 +17,7 @@ Actively Going through:
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🌊 2024 Goals: Contribute more to Open Source projects and get jobs <br><br>
+* 🌊 2026 Goals: Contribute more to Open Source projects and get jobs <br><br>
 
 * ☕ Interest: Cats, Coffee, and Coding. <br><br>
 
